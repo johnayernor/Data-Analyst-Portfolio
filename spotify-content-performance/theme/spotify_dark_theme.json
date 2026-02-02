@@ -1,0 +1,266 @@
+{
+  "name": "Spotify Theme",
+  "dataColors": [
+    "#1DB954",
+    "#1ED760",
+    "#179443",
+    "#84BD00",
+    "#509BF5",
+    "#AF2896",
+    "#F037A5",
+    "#F59B23"
+  ],
+  "background": "#191414",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#1DB954",
+  "good": "#1DB954",
+  "neutral": "#B3B3B3",
+  "bad": "#E22134",
+  "maximum": "#1ED760",
+  "center": "#535353",
+  "minimum": "#191414",
+  "null": "#B3B3B3",
+  "textClasses": {
+    "callout": {
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "color": "#FFFFFF"
+    },
+    "label": {
+      "color": "#B3B3B3"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#191414"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#282828"
+              }
+            },
+            "show": true
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "outlineColor": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1DB954"
+              }
+            }
+          }
+        ],
+        "outlineWeight": [
+          {
+            "weight": 2
+          }
+        ]
+      },
+      "title": [
+        {
+          "color": {
+            "solid": {
+              "color": "#FFFFFF"
+            }
+          },
+          "background": {
+            "solid": {
+              "color": "#191414"
+            }
+          }
+        }
+      ],
+      "subTitle": [
+        {
+          "color": {
+            "solid": {
+              "color": "#B3B3B3"
+            }
+          }
+        }
+      ],
+      "divider": [
+        {
+          "color": {
+            "solid": {
+              "color": "#1DB954"
+            }
+          },
+          "show": true
+        }
+      ],
+      "background": [
+        {
+          "color": {
+            "solid": {
+              "color": "#191414"
+            }
+          },
+          "transparency": 0
+        }
+      ]
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "filterCard": {
+      "$id": "Applied",
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#191414"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1DB954"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#191414"
+              }
+            }
+          }
+        ],
+        "inputBoxBorder": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1DB954"
+              }
+            }
+          }
+        ],
+        "header": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ],
+        "items": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#B3B3B3"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#191414"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#B3B3B3"
+              }
+            }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "shape": {
+      "*": {
+        "fill": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1DB954"
+              }
+            }
+          }
+        ],
+        "line": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1ED760"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
