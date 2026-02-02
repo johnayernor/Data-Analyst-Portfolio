@@ -11,7 +11,8 @@ An end-to-end Power BI project analyzing Spotify’s music catalog to uncover in
 📁 Project folder: spotify-content-performance
 
 
-STAKEHOLDER BRIEF: HR DATA & INSIGHTS
+
+## Stakeholder Brief: HR Data & Insights
 
 This analysis explores key HR metrics to uncover insights that will inform strategic decision-making. The primary objective is to identify trends and areas of improvement that can enhance employee retention and satisfaction. 
 
@@ -21,7 +22,7 @@ This analysis explores key HR metrics to uncover insights that will inform strat
 
 
 
-UDEMY DATA ANALYSIS
+## Udemy Data Analysis
 
 The objective of this project was to analyze Udemy course data across four subjects to uncover pricing patterns and subscription trends. 
 
@@ -31,7 +32,7 @@ The objective of this project was to analyze Udemy course data across four subje
 
 
 
-TAYLOR SWIFT CONCERT TOURS
+## Taylor Swift Concert Tours
 
 Uncovering insights about Taylor Swift’s concert tours by examining data trends relating to the attendance and revenue.
 
