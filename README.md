@@ -1,3 +1,16 @@
+## 🎧 Spotify Content Performance (Power BI)
+
+An end-to-end Power BI project analyzing Spotify’s music catalog to uncover insights around track popularity, artist performance, genre trends, and catalog growth.
+
+**Highlights**
+- Business-focused KPIs and dashboards
+- Clean data modeling and transformations
+- Custom Spotify-inspired Power BI theme
+- Executive dashboard published in Power BI Service
+
+📁 Project folder: spotify-content-performance
+
+
 STAKEHOLDER BRIEF: HR DATA & INSIGHTS
 
 This analysis explores key HR metrics to uncover insights that will inform strategic decision-making. The primary objective is to identify trends and areas of improvement that can enhance employee retention and satisfaction. 
